@@ -6,6 +6,8 @@
 
 - Fix automatic language detection for BM25 ranking #164
 
+- Use site language to mark the search language if `Language` parameter is not used #166
+
 ## 1.0.0b64
 
 ### Fixed
